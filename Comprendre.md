@@ -34,4 +34,11 @@ Essayez de synthétiser en binôme votre compréhension de la notion que vous av
 
 - Quelles sont ses alternatives ? 
  
-  
+
+**Lecture de code:**
+<br> La fonction renvoie dans la console: 2 x 3 = 6, 0 x 12 = 0, 5 x 30 = 150.
+<br> La fonction renvoie the variable is undefined or null si la variable est null sinon elle renvoie the variable is neither undefined nor null.
+<br> checkVariable(5);The variable is neither undefined nor null
+<br> checkVariable('hello');The variable is neither undefined nor null
+<br> checkVariable(null);The variable is undefined or null
+<br> checkVariable(newVariable);The variable is undefined or null
